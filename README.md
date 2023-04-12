@@ -1,2 +1,2 @@
 # Machine-learning-HotelProject
-supervised learning to determine if a booking will cancel 
+A model for a hotel chain to predict if a booking reservation will cancel using Logistic Regression.
